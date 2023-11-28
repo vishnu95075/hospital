@@ -1,0 +1,18 @@
+.hospital{
+    border: 2px solid #eeeeee;
+    margin-left: 160px;
+    margin-right: 160px;
+    padding-bottom: 20px;
+    border-radius: 15px;
+    background: #eeeeee;
+}
+
+.hospital-info-list {
+    padding-top: 30px;
+    margin-left: 160px;
+    margin-right: 160px;
+    align-self: center;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}

@@ -1,0 +1,20 @@
+.hospital-info-list {
+    padding-top: 30px;
+    margin-left: 160px;
+    margin-right: 160px;
+    align-self: center;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
+
+
+
+/* .hospital-info-list:hover{
+
+    transform: scale(1.05);
+    -webkit-transform: scale(1.05);
+    -moz-transform: scale(1.05);
+    -ms-transform: scale(1.05);
+    -o-transform: scale(1.05);
+} */

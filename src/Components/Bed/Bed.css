@@ -1,0 +1,9 @@
+.bed {
+    border: 2px solid #eeeeee;
+    margin-left: 160px;
+    margin-right: 160px;
+    padding-bottom: 20px;
+    border-radius: 15px;
+    background-color: #ffffff;
+    box-shadow: 0px 2px rgb(214, 222, 235, 0.5);
+}
